@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.conteudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    border: solid 2px white;
+}
